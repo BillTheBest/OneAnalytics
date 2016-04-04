@@ -12,5 +12,9 @@ Introducing OneAnalytics, a darker Google Analytics for Google Chrome.
 6. Browse to the extracted OneAnalytics folder and select "OK"
 7. ...and you are done! Just visit [Google Analytics](https://analytics.google.com) to see the dark theme in action.
 
-##### [Follow me](http://twitter.com/mehedih_)
+##### [Follow me on Twitter](http://twitter.com/mehedih_)
 Because why not, right?
+
+___________________________
+
+*Note: This is the [CSS from here](http://stylebot.me/styles/11685)*
